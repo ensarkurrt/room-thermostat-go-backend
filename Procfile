@@ -1,1 +1,1 @@
-web: bin/sample-golang
+web: bin/room-thermostat-go-backend
